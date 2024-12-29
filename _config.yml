@@ -21,7 +21,7 @@ repository               : "iancgeorge/iancgeorge.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/pic1.jpg"
+  avatar           : "images/pic1.JPG"
   name             : "Ian George"
   pronouns         : # example: "she/her"  
   bio              : "Hi! I am a PhD Candidate in the Combinatorics and Optimization department at the University of Waterloo. My research combines combinatorics and fundamental physics."
