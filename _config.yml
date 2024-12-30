@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-CAD"
-title                    : "Ian George / Webpage"
+title                    : "Ian George"
 title_separator          : "-"
 name                     : &name "Ian George"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "pic1.jpg"
   name             : "Ian George"
   pronouns         : # example: "she/her"  
-  bio              : "Hi! I am a PhD Candidate in the Combinatorics and Optimization department at the University of Waterloo. My research combines combinatorics and fundamental physics."
+  bio              : "PhD Candidate in the Combinatorics and Optimization department at the University of Waterloo"
   location         : "Waterloo, Canada"
   employer         : "University of Waterloo"
   uri              : # URL
