@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+About me
 ======
 My name is Ian George.  I am a PhD candidate in the department of Combinatorics and Optimization at the University of Waterloo, under the supervision of Karen Yeats.  My research broadly involves combinatorics and fundamental physics, and lately my focus has been in Causal Set Theory.
 
