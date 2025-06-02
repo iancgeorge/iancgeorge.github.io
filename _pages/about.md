@@ -13,4 +13,4 @@ My name is Ian George.  I am a PhD candidate in the department of Combinatorics 
 
 Outside of math, I have a passion for music and pretty much all things nature.
 
-You can contact me at: i 2 George (at) u waterloo (dot) ca.
+You can contact me at: i 2 george (at) u waterloo (dot) ca.
