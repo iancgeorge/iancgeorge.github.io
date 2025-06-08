@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+======
+
 Posets and Causal Set Theory
 ======
 
