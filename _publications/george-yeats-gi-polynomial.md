@@ -3,7 +3,7 @@ title: "The Generalized Interval Polynomial of a Poset"
 collection: publications
 category: preprints
 permalink: /publication/george-yeats-gi-polynomial
-excerpt: 'With Karen Yeats, this extended abstract introduces a generating polynomial for generalized intervals of a poset and explores some of its basic properties.'
+excerpt: 'With Ren Yeats, this extended abstract introduces a generating polynomial for generalized intervals of a poset and explores some of its basic properties.'
 date: 2025-11-18
 venue: 'arXiv preprints'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
