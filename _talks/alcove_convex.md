@@ -4,7 +4,7 @@ title: "Enumerating Convex Sets in Posets"
 
 collection: talks
 
-type: "Poster"
+category: posters
 
 permalink: /talks/alcove\_convex
 
