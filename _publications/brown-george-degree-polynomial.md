@@ -3,7 +3,7 @@ title: "On the roots of degree polynomials"
 collection: publications
 category: manuscripts
 permalink: /publication/brown-george-degree-polynomial
-excerpt: 'With Jason Brown, this paper explores roots of degree polynomials of graphs.'
+excerpt: 'With [Jason Brown](https://www.mathstat.dal.ca/~brown/){:target="_blank"}, this paper explores roots of degree polynomials of graphs.'
 date: 2025-06-01
 venue: 'Australasian Journal of Combinatorics'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
