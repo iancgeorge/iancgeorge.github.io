@@ -1,7 +1,7 @@
 ---
 title: "Enumerating Convex Sets of Posets"
 collection: talks
-type: "Talk"
+category: seminars
 permalink: /talks/alg_enum_convex
 excerpt: '[Slides](http://iancgeorge.github.io/files/alg_enum_convex.pdf)'
 venue: "Algebraic and Enumerative Combinatorics Seminar"

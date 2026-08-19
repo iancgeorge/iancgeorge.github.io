@@ -84,6 +84,11 @@ publication_category:
     title: 'Conference Papers'
   preprints:
     title: 'Preprints'
+
+# Talk category
+talk_category:
+  seminars:
+    title: 'Seminars'
   posters:
     title: 'Posters'
 
