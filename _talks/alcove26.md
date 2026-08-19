@@ -6,13 +6,13 @@ collection: talks
 
 category: posters
 
-permalink: /talks/alcove\_convex
+permalink: /talks/alcove26
 
 excerpt: '\[Poster](http://iancgeorge.github.io/files/alcove26.pdf)'
 
 venue: "Algebraic Combinatorics Virtual Expedition (AlCoVE)"
 
-date: 2026-03-26
+date: 2026-06-09
 
 location: "Virtual"
 
