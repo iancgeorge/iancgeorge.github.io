@@ -11,5 +11,3 @@ slidesurl: 'http://iancgeorge.github.io/files/alg_enum_convex.pdf'
 ---
 
 <!-- This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown! -->
-
-Local seminar.
