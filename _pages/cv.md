@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV [here](http://iancgeorge.github.io/files/CVIG.pdf){:target="_blank"} (last updated 27-08-26).
+You can find my CV [here](http://iancgeorge.github.io/files/CVIG.pdf){:target="_blank"} (last updated 23-10-26).
